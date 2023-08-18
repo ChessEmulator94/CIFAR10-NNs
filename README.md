@@ -4,6 +4,8 @@ MLP and CNN to classify images from the CIFAR10 data set. Goal was not to achiev
 
 HOW TO USE:
 
+- Download all files to the same folder
+
 1. Run "make" in terminal
 
 2. MLP.py
